@@ -60,6 +60,7 @@ print(domain_info)
 ## Output format 
 The tool returns domain information in the following format:
 
+```json
 {
   "domain_info": {
     "title": "string",                // The title of the website
@@ -110,7 +111,7 @@ The tool returns domain information in the following format:
     "NS": ["string"]                   // List of name servers associated with the domain
   }
 }
-
+```
 
 ## Contributing
 
