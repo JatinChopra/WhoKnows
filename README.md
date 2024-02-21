@@ -60,7 +60,7 @@ print(domain_info)
 ## Output format 
 The tool returns domain information in the following format:
 
-```json
+```
 {
   "domain_info": {
     "title": "string",                // The title of the website
