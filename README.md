@@ -12,34 +12,53 @@ WhoKnows is a simple tool for retrieving domain information. It allows you to qu
 
 1. Clone the repository:
 
+<<<<<<< HEAD
    ```bash
+=======
+   ```
+>>>>>>> origin/main
    git clone https://github.com/JatinChopra/whoknows.git
    ```
 
 2. Install the required dependencies:
 
+<<<<<<< HEAD
    ```bash
+=======
+   ```
+>>>>>>> origin/main
    pip install -r requirements.txt
    ```
 
 ## Usage
 
+<<<<<<< HEAD
 ### Running the Script
 
 1. Navigate to the project directory:
 
    ```bash
+=======
+1. Navigate to the project directory:
+
+   ```
+>>>>>>> origin/main
    cd whoknows
    ```
 
 2. Run the tool with the domain you want to analyze:
 
+<<<<<<< HEAD
    ```bash
+=======
+   ```
+>>>>>>> origin/main
    python whoknows.py
    ```
 
 3. Follow the on-screen instructions to enter the domain name.
 
+<<<<<<< HEAD
 ### Importing the Function
 
 Alternatively, you can import the `fetchDetails` function into your Python code and use it to retrieve domain details programmatically.
@@ -110,6 +129,10 @@ The tool returns domain information in the following format:
     "NS": ["string"]                   // List of name servers associated with the domain
   }
 }
+=======
+4. Sit back and let WhoKnows gather the domain information for you!
+
+>>>>>>> origin/main
 
 
 ## Contributing
@@ -119,4 +142,8 @@ Contributions are welcome! Please feel free to submit any issues or pull request
 ## Acknowledgments
 
 - Thanks to [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) for providing a simple API for HTML parsing.
+<<<<<<< HEAD
 - Thanks to [Python-whois](https://pypi.org/project/python-whois/) for providing WHOIS querying capabilities in Python.
+=======
+- Thanks to [Python-whois](https://pypi.org/project/python-whois/) for providing WHOIS querying capabilities in Python.
+>>>>>>> origin/main
