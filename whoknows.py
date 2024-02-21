@@ -128,7 +128,7 @@ def run_dig_command(command):
     return output.decode()
 
 
-def caller(domain):
+def fetchDetails(domain):
     try:
     
         result = get_title_and_url(domain)
